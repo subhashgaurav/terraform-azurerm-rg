@@ -1,0 +1,4 @@
+output "rg_name" {
+  description = "The name of the new RG"
+  value       = azurerm_resource_group.az-rg-1.name
+}
