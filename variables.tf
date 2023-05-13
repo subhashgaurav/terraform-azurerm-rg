@@ -8,9 +8,3 @@ variable "location" {
   type        = string
   default     = "West Europe"
 }
-
-
-variable "tags" {
-  description = "description"
-  type        = map(string)
-}
