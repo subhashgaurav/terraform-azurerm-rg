@@ -1,5 +1,5 @@
 ###################################
-# Create New Network Security Group
+# Create New Resource Group
 ###################################
 
 
